@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Python and Git/Github.
 - 📫 How to reach me: paulomg1996@gmail.com
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> width="20" height="20"
+<img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
 
 
 <!--
