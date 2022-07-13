@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Python and Git/Github.
 
 <!--
 **paullosergioo/paullosergioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
