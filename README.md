@@ -1,6 +1,8 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Python and Git/Github.
 - 📫 How to reach me: paulomg1996@gmail.com
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+
 
 <!--
 **paullosergioo/paullosergioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
