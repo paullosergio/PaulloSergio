@@ -6,7 +6,7 @@
 
 _______________________________________________________________________________________________________________
 
-<img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
+<a href="https://www.linkedin.com/in/paulo-sergio-pereira-filho/"_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
           
           
 
