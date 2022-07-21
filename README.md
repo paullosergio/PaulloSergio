@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Back end Development!
 - 📫 How to reach me: paulomg1996@gmail.com
 
 The Zen of Python, by Tim Peters:
