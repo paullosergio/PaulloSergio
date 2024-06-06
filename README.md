@@ -5,8 +5,8 @@
 </div>
 
 <div align="center"> 
-  <a href = "mailto:paulomg1996@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paulo-sergio-pereira-filho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:paulomg1996@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/paulo-sergio-pereira-filho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 
@@ -15,7 +15,7 @@
 <h2 align="center">Main Technologies:</h2>
 </br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,py,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,py,git,github,vscode,docker,linux" />
 </div>
 
 <br> </br>
