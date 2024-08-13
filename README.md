@@ -25,7 +25,7 @@
 <h2 align="center">💻 GitHub Profile Stats</h3>
 </br>
 <div align="center"> 
-  <a href="https://github.com/1ucasruan">
+  <a href="https://github.com/paullosergio">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paullosergio&layout=compact&hide_border=true&theme=dracula" alt="Profile statistics" height="180em"><a>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=paullosergio&layout=compact&hide_border=true&theme=dracula" alt="Profile statistics" height="180em"></a>
 </div>
